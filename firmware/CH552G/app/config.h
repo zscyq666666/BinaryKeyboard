@@ -77,10 +77,10 @@
 #define LAYER_SWITCH_KEY_COUNT 5
 #define RGB_LOGICAL_TO_PHYSICAL_MAP {2, 1, 0, 3, 4}
 #define KEY0_PIN 33
-#define KEY1_PIN 34
+#define KEY1_PIN 30
 #define KEY2_PIN 14
-#define KEY3_PIN 31
-#define KEY4_PIN 30
+#define KEY3_PIN 34
+#define KEY4_PIN 31
 
 #endif
 
