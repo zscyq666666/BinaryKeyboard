@@ -23,7 +23,7 @@ BinaryKeyboard 是开源迷你宏键盘项目，提供 CH552G USB 有线版和 C
 - 无线款使用：[无线款使用手册](docs/wireless/manual.md)
 - 固件发行：[GitHub Releases](https://github.com/MeowKJ/BinaryKeyboard/releases)
 
-# 快速开始
+# 快速开始123
 
 在仓库根目录运行：
 
