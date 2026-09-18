@@ -15,7 +15,7 @@
   </a>
 </p>
 
-# 概述
+# 概述     
 
 BinaryKeyboard 是开源迷你宏键盘项目，提供 CH552G USB 有线版和 CH592F USB / BLE 双模版。
 
